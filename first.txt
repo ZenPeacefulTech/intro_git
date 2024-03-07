@@ -18,3 +18,10 @@ Git status
 =========
 
 Git diff
+
+=========
+Git 更に追加しました。
+
+=========
+
+Git diff --staged
